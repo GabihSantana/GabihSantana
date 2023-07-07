@@ -1,14 +1,14 @@
-### Oii! Eu sou a Gabriela Santana 
+### Bem-Vindo(a)! Eu sou a Gabriela Santana✨
 
-**GabihSantana/GabihSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 Atualmente estou procurando um emprego para aplicar e aprimorar meu conhecimento.
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas - 2° semestre.
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas - 2° semestre.
+- 🔭 Atualmente estou procurando um emprego para aplicar e aprimorar os meus conhecimentos.
 
 <div>
   <a href="https://github.com/GabihSantana">
-  <img heigh="180em" src="https://github-readme-status.vercel.app/api?username=GabihSantana&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true" />
-  <img heigh="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=GabihSantana&layout=compact&langs_count=16&theme=midnight-purple" />
+    <img heigh="180em" src="https://github-readme-status.vercel.app/api?username=GabihSantana&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true" />
+    <img heigh="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=GabihSantana&layout=compact&langs_count=16&theme=midnight-purple" />
+  </a>
 </div>
     
 <div style="display: inline-block"> <br />
@@ -20,3 +20,8 @@
 
 ##
 
+<div>
+  <a hreaf = "https://www.linkedin.com/in/gabriela-santana-camilo-349271276/" target="_blank" ><img src = "https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" target="_blank" />
+  <a hreaf = "mailto:gabriela2santtanna@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank" />
+  </a>
+</div>
