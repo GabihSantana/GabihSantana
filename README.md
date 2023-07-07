@@ -21,7 +21,6 @@
 ##
 
 <div>
-  <a hreaf = "https://www.linkedin.com/in/gabriela-santana-camilo-349271276/" target="_blank" ><img src = "https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin" target="_blank" />
-  <a hreaf = "mailto:gabriela2santtanna@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank" />
-  </a>
+    <a href="https://www.linkedin.com/in/gabriela-santana-camilo-349271276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:gabriela2santtanna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
