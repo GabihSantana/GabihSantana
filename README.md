@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b59dc8&size=25&center=true&vCenter=true&width=1000&lines=OII,+SEJA+BEM-VINDO(A)✨;+SOU+A+GABRIELA+SANTANA;TENHO+18+ANOS;ESTOU+CURSANDO+ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b59dc8&size=25&center=true&vCenter=true&width=1000&lines=HII,+BE+WELCOME✨;+MY+NAME+IS+GABRIELA+SANTANA;+I'M+18+YEARS+OLD;SYSTEMS+DEVELOPMENT+AND+ANALYSIS+STUDENT)](https://git.io/typing-svg)
+
 ##
 
 <div align="center">  
