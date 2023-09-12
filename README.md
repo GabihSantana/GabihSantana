@@ -13,8 +13,6 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabihSantana&bg_color=0d1117&color=6b3c91&line=470c76&point=b59dc8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div style="display: inline-block" align="center"> <br />
   <img alt="Gabih-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="Gabih-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -26,6 +24,8 @@
   <img alt="Gabih-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabihSantana&bg_color=0d1117&color=6b3c91&line=470c76&point=b59dc8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
