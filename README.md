@@ -4,7 +4,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Gabriela Santana, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP.
+Me chamo Gabriela Santana, tenho 20 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP.
 
 ---
 
