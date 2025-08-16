@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=291B3E&height=120&section=header"/>
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=A96FFF&center=true&vCenter=true&width=435&separator=%3C&lines=Hi%2C+I'm+Gabriela+Santana%3CWelcome+to+my+profile+;\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=EC3DF7FF&center=true&vCenter=true&width=435&separator=%3C&lines=Hi%2C+I'm+Gabriela+Santana%3CWelcome+to+my+profile+;\))](https://git.io/typing-svg)
 
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabihsantana&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabihsantana&theme=jolly) |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabihsantana&theme=jolly&utcOffset=8)
